@@ -6,8 +6,8 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: black;
-    color: yellow;
+    background-color: rgb(23, 21, 46);
+    color: rgb(255, 238, 0);
 }
 
 .fondo {
